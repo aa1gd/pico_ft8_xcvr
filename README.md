@@ -1,27 +1,13 @@
-Sept. 29, 2021
+RPi Pico FT8 Transciever
+
+Code to run a standalone FT8 transceiver based on the new Raspberry Pi Pico RP2040 microcontroller. Implemented in C, based on Karlis Goba YL3JG's FT8 Library. Uses the RPi Pico C/C++ SDK.
+
+Currently, it is able to decode live audio signals that are input into the ADC, displaying them on the LCD. Uses a ST7789 240x320 LCD display, 4x4 membrane keyboard, Si5351 clock generator.
+
+To do list:
 -fix snr readings
--correct for timing delay from decoding (using modulo division on the clock)
--work on send ft8 and rx ft8
 -add abort option during sending
--incremental timing (with kTime = 1 first, then kTime = 2)
-
-Oct. 1, 2021
--add split frequency operation?
-
-Oct. 2, 2021
--1 time_osr is giving better results than two?? FIXED
--make decoding time (and num blocks) a separate variable, not a function of number of samples FIXED
-
-Oct. 12, 2021
--Write setup function under util, with frequency and RTC
--make decode_ft8 work with adc samples, not wav file
--Do multithreading
--find how to use quadrature filter + LPF
-
-Oct. 18, 2021
--Logic timing-first if, then while, otherwise empty looping
--updating message list in GUI
--overclocking
+-add split frequency operation
+-find how to use DSP quadrature filter + LPF in software
 -sending waterfall
--is dma a separate process?
 
