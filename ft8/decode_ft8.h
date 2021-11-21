@@ -1,6 +1,6 @@
 #pragma once
 #include "decode.h"
-#include "..\fft/kiss_fftr.h"
+#include "../fft/kiss_fftr.h"
 
 #define kMin_score 10 // Minimum sync score threshold for candidates
 #define kMax_candidates 30 // Original was 120

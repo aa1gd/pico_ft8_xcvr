@@ -10,7 +10,7 @@
 #include "constants.h"
 #include "crc.h"
 
-#include "..\fft/kiss_fftr.h"
+#include "../fft/kiss_fftr.h"
 
 #include "decode_ft8.h"
 #include "../util/rx_ft8.h"
