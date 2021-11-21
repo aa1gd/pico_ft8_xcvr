@@ -1,0 +1,125 @@
+Extraction time: 27
+Waterfall time: 95
+Handler time: 123
+done collecting power
+resetting offset and max mag
+Noise average: 72
+sig avg: 107 sig-noise power: 35
+0      30 +0.80 2281 ~  CQ OH8GDU KP24
+estimated snr: -8
+
+sig avg: 117 sig-noise power: 45
+1      23 +0.80  431 ~  VK4BLE OH8JK R-17
+estimated snr: -4
+
+sig avg: 117 sig-noise power: 45
+2      21 +0.64  906 ~  PA3EPP SP8NFO R+01
+estimated snr: -4
+
+sig avg: 113 sig-noise power: 41
+3      19 +0.80 1281 ~  CQ F4FSY JN25
+estimated snr: -5
+
+sig avg: 112 sig-noise power: 40
+4      17 +0.80 2656 ~  CQ JA OH1LWZ KP11
+estimated snr: -6
+
+Decoded 5 messages
+decoding took this long: 3683769 us
+identification took this long: 262 us
+finished identifying message types
+
+WAITING 2 SECONDS FOR USER INPUT
+Enter station to respond to: clearing 784 bytes of message_list
+done a loop!
+RECIEVING FOR 12.8 SECONDS
+
+Sample rate 6000 Hz, 80 blocks, 480 bins
+This is size of array mag_power in bytes: 38400
+starting incremental collection
+
+//USING 250MHz CLOCK
+Extraction time: 13
+Waterfall time: 88
+Handler time: 102
+done collecting power
+resetting offset and max mag
+Noise average: 68
+sig avg: 108 sig-noise power: 40
+0      36 +0.64  431 ~  VK4BLE OH8JK R-17
+estimated snr: -6
+
+sig avg: 111 sig-noise power: 43
+1      28 +0.64 2656 ~  CQ JA OH1LWZ KP11
+estimated snr: -5
+
+sig avg: 105 sig-noise power: 37
+2      18 +0.64 2281 ~  CQ OH8GDU KP24
+estimated snr: -7
+
+sig avg: 115 sig-noise power: 47
+3      17 +0.64 1281 ~  CQ F4FSY JN25
+estimated snr: -3
+
+sig avg: 100 sig-noise power: 32
+4      16 +0.64 2112 ~  CQ OR18TRA
+estimated snr: -9
+
+sig avg: 115 sig-noise power: 47
+5      13 +0.48  906 ~  PA3EPP SP8NFO R+01
+estimated snr: -3
+
+sig avg: 114 sig-noise power: 46
+6      12 +0.32 2575 ~  VK4BLE OH1EDK -20
+estimated snr: -3
+
+Decoded 7 messages
+decoding took this long: 3127006 us
+identification took this long: 132 us
+finished identifying message types
+
+WAITING 2 SECONDS FOR USER INPUT
+Enter station to respond to:
+
+//DECREASED LDPC ITERATIONS TO 10
+Extraction time: 13
+Waterfall time: 88
+Handler time: 102
+done collecting power
+resetting offset and max mag
+Noise average: 71
+sig avg: 104 sig-noise power: 33
+0      36 +0.96  431 ~  VK4BLE OH8JK R-17
+estimated snr: -9
+
+sig avg: 109 sig-noise power: 38
+1      25 +0.96 2656 ~  CQ JA OH1LWZ KP11
+estimated snr: -7
+
+sig avg: 104 sig-noise power: 33
+2      16 +0.96 2281 ~  CQ OH8GDU KP24
+estimated snr: -9
+
+sig avg: 112 sig-noise power: 41
+3      14 +0.96 1281 ~  CQ F4FSY JN25
+estimated snr: -5
+
+sig avg: 113 sig-noise power: 42
+4      13 +0.64 2575 ~  VK4BLE OH1EDK -20
+estimated snr: -5
+
+sig avg: 110 sig-noise power: 39
+5      12 +0.80  906 ~  PA3EPP SP8NFO R+01
+estimated snr: -6
+
+sig avg: 99 sig-noise power: 28
+6      11 +0.96 2112 ~  CQ OR18TRA
+estimated snr: -11
+
+Decoded 7 messages
+decoding took this long: 1599434 us
+identification took this long: 129 us
+finished identifying message types
+
+WAITING 2 SECONDS FOR USER INPUT
+

@@ -1,0 +1,2 @@
+add_library(pico_keypad4x4 pico_keypad4x4.c pico_keypad4x4.h)
+target_link_libraries(pico_keypad4x4 pico_stdlib)
