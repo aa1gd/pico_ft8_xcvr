@@ -1,0 +1,6 @@
+-fix snr readings
+-add abort option during sending
+-add split frequency operation
+-find how to use DSP quadrature filter + LPF in software
+-sending waterfall
+
